@@ -1,0 +1,30 @@
+{
+  "name": "project-template",
+  "version": "1.0.0",
+  "description": "Some description ",
+  "main": "fuse.js",
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.7.18",
+    "@types/react-dom": "^16.0.11",
+    "fuse-box": "^3.6.0",
+    "node-sass": "^4.11.0",
+    "typescript": "^3.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benrout/project-template.git"
+  },
+  "author": "Ben Rout <email@something.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benrout/project-template/issues"
+  },
+  "homepage": "https://github.com/benrout/project-template#readme"
+}
