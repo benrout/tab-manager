@@ -1,7 +1,8 @@
 import * as React from 'react';
+import { ITab } from './TabManager';
 
 export interface TabViewerProps {
-    tab: any;
+    tab: ITab;
 }
 
 export class TabViewer extends React.Component<TabViewerProps> {
